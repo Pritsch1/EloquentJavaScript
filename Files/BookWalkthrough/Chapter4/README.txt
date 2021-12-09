@@ -1,0 +1,1 @@
+Decided to replicate the code on my own. Most part of the functions were written by me with a lot of peeks at the original code in the book. This is just for learning purpouse. 
